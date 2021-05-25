@@ -1,0 +1,31 @@
+{
+  "name": "davidilie",
+  "version": "2.2.2",
+  "author": "David Ilie <david@davidilie.com> (https://davidilie.com)",
+  "description": "A business card for David Ilie",
+  "main": "card.js",
+  "bin": "./card.js",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/davidilie/npx_business_card.git"
+  },
+  "scripts": {
+    "start": "node card.js"
+  },
+  "dependencies": {
+    "boxen": "^5.0.0",
+    "chalk": "^4.1.0",
+    "clear": "^0.1.0",
+    "inquirer": "^7.3.3",
+    "open": "^7.3.1"
+  },
+  "keywords": [
+    "card",
+    "npm",
+    "npm card",
+    "npx",
+    "npx card",
+    "business card"
+  ],
+  "license": "ISC"
+}
