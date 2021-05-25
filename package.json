@@ -1,6 +1,6 @@
 {
   "name": "davidilie",
-  "version": "2.2.2",
+  "version": "1.0",
   "author": "David Ilie <david@davidilie.com> (https://davidilie.com)",
   "description": "A business card for David Ilie",
   "main": "card.js",
